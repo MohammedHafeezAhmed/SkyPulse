@@ -58,3 +58,32 @@ An API key is required to run this project.
 
 ![SkyPulse App Screenshot](screenshots/skypulse2.png)
 
+---
+
+````md
+## ▶️ How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/skypulse_weather.git
+````
+
+2. Open the project folder
+
+   ```bash
+   cd skypulse_weather
+   ```
+
+3. Install required libraries
+
+   ```bash
+   pip install requests PyQt5
+   ```
+
+4. Add your API key in the code (replace `YOUR_API_KEY`)
+
+5. Run the application
+
+   ```bash
+   python main.py
+   ```
