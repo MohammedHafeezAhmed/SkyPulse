@@ -51,3 +51,10 @@ Weather App Project – API Based Application
 ## ⚠️ Note
 
 An API key is required to run this project.
+
+## 📸 Project Screenshot
+
+![SkyPulse App Screenshot](screenshots/skypulse1.png)
+
+![SkyPulse App Screenshot](screenshots/skypulse2.png)
+
